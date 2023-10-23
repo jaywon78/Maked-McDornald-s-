@@ -15,7 +15,9 @@
 > 시간의 순서라는 모션으로 나타내 보았습니다.
 
 ## Result
-
+<p align="center">
+  <img src="https://github.com/jaywon78/Maked-McDornald-s-/assets/141727385/482b0916-9757-47c5-8b0b-ef9d307b71a6">
+</p>
 
 
 ### Heal & Crown
@@ -25,6 +27,9 @@
 >
 > 토스트기에 입장하여 새로운 색깔의 빵으로 나오게 됩니다.
 
+<p align="center">
+  <img src="https://github.com/jaywon78/Maked-McDornald-s-/assets/141727385/d45aa9f4-fc9e-402f-b7a3-7002c21ea761">
+</p>
 
 
 ### 기름에 퐁당~ 뭐가? 패티가~!
@@ -35,9 +40,15 @@
 >
 > 패티가 탄생하게 됩니다.
 
+<p align="center">
+  <img src="https://github.com/jaywon78/Maked-McDornald-s-/assets/141727385/2f42419a-0065-4f38-9e1d-f78862680386">
+</p>
 
 
 ### Hamburger
 >
 > 재료만 준비되어 있다면! 뚝딱하고 나오는게 바로~ 맥도날드!
 
+<p align="center">
+  <img src="https://github.com/jaywon78/Maked-McDornald-s-/assets/141727385/07437cec-3c38-4663-b0d7-e2d306268306">
+</p>
